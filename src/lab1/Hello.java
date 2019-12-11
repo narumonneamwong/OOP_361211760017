@@ -10,6 +10,7 @@ public class Hello {
         System.out.println("Nakhon");
         System.out.println("Narumon Neamwong");
         System.out.println("เราสวยมาก");
+        System.out.println("เราน่ารักนะ");
 
 
 
