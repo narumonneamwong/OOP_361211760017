@@ -8,7 +8,9 @@ public class Hello {
         System.out.println("Faculty of Managmant Technology");
         System.out.println("Saiyai");
         System.out.println("Nakhon");
-         System.out.println("Narumon Neamwong");
+        System.out.println("Narumon Neamwong");
+        System.out.println("เราสวยมาก");
+
 
 
 
